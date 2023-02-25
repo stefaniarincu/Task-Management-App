@@ -1,6 +1,8 @@
 # Task-Management-App
 
 &emsp;This is a University project, in which I have implemented a simulation of a Task Management Platform, using ASP.Net. <br /><br />
+![Screenshot (828)](https://user-images.githubusercontent.com/93484228/221356800-a0a31236-524a-4801-b890-bb964cd9f06f.png)
+<br /><br />
 
 ## Quick Description <br />
 
@@ -20,21 +22,17 @@
 &emsp;&emsp;-> both the organizer and the team members of a specific team can change the status of a task (not assigned, not started, in progress, completed) <br />
 &emsp;&emsp;-> the admin provides the good functionality of the platform and can perform any kind of operation on any entity <br />
 
-## Some insights <br /><br />
-![Screenshot (828)](https://user-images.githubusercontent.com/93484228/221356800-a0a31236-524a-4801-b890-bb964cd9f06f.png)
-<br />
-&emsp;&emsp;&emsp;This picture represents the home page of the app
-<br /><br />
+## Some insights 
 ![Screenshot (832)](https://user-images.githubusercontent.com/93484228/221356944-2dfe4b27-531c-42cc-b874-8b62ac0274dc.png)
 <br />
 &emsp;&emsp;&emsp;Here it can be seen that I have logged in as Admin and I am currently on the page of a team I can see all the members of that team, the tasks, and the description of the project assigned to it. It is also clear, that I can perform a lot of operations on those entities
 <br /><br />
 ![Screenshot (833)](https://user-images.githubusercontent.com/93484228/221357138-b069da20-f1a6-4915-b4ae-361cffbb88be.png)
 <br />
-&emsp;&emsp;&emsp;Here I am the Admin again and I am currently looking at all the comments in the app it's quite clear that I can perform any operation I want on all the comments even if I am not the one that posted them
+&emsp;&emsp;&emsp;In this print-screen I am the Admin again and I am currently looking at all the comments in the app it's quite clear that I can perform any operation I want on all the comments even if I am not the one that posted them
 <br /><br />
 ![Screenshot (829)](https://user-images.githubusercontent.com/93484228/221357249-83247cd8-abe6-4716-ac95-bf4255b1bd27.png)
 ![Screenshot (835)](https://user-images.githubusercontent.com/93484228/221357262-14fada88-43c9-4596-85d8-5f08665274aa.png)
 <br />
-&emsp;&emsp;&emsp;Here is a clear distinction between the roles in this app, and how a user that has not to have many projects will not see a long list of projects, because he can not perform any operations on them and it's useless to see all of them. This rule also applies to the teams, comments, and tasks, because we want to provide efficient navigation for all the users in this app
+&emsp;&emsp;&emsp;Those pictures provide a clear distinction between the roles used in this app, and how a user that has not to have many projects will not see a long list of projects, because he can not perform any operations on them and it's useless to see all of them. This rule also applies to the teams, comments, and tasks, because we want to provide efficient navigation for all the users in this app
 
